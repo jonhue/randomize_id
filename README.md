@@ -10,8 +10,6 @@ Randomize the `id` attribute of ActiveRecord objects.
 
 * [Installation](#installation)
 * [Usage](#usage)
-    * [Layouts](#layouts)
-    * [Components](#components)
 * [Configuration](#configuration)
 * [To Do](#to-do)
 * [Contributing](#contributing)
